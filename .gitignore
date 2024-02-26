@@ -1,0 +1,18 @@
+# Archivos y directorios específicos de Django
+/db.sqlite3
+/venv/
+/__pycache__/
+/*.pyc
+
+# Archivos de configuración local (configura los tuyos si es necesario)
+/backendportal/settings.py
+
+# Otros archivos y directorios generados automáticamente
+*.log
+*.pot
+*.pyc
+__pycache__/
+*.sqlite3
+*.swp
+*.swo
+*.DS_Store
