@@ -5,7 +5,7 @@
 /*.pyc
 
 # Archivos de configuración local (configura los tuyos si es necesario)
-/backendportal/settings.py
+# /backendportal/settings.py
 
 # Otros archivos y directorios generados automáticamente
 *.log
